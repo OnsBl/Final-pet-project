@@ -4,12 +4,11 @@ import {
   getCartTotal,
 
 } from '../Slices/CartSlice';
-import { MDBIcon, MDBTooltip } from 'mdb-react-ui-kit';
 import Total from '../components/Cart/Total';
 import CartItem from '../components/Cart/CartItem';
 
 const Cart = () => {
-  const { cart, totalQuantity, totalPrice } = useSelector(
+  const { cart } = useSelector(
     (state) => state.allCart
   );
 
@@ -17,6 +16,7 @@ const Cart = () => {
 
   useEffect(() => {
     dispatch(getCartTotal());
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [cart]);
 
   return (

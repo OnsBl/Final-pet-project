@@ -3,7 +3,6 @@ import { useDispatch, useSelector } from 'react-redux';
 import { setSearchQuery } from '../../Slices/SearchSlice';
 import { Link } from 'react-router-dom'; 
 import "./NavBar.css";
-import { ReactComponent as Shop } from '../../shopcart.svg';
 import { getCartTotal } from '../../Slices/CartSlice';
 
 export default function Navbar() {
@@ -18,7 +17,9 @@ export default function Navbar() {
   };
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     dispatch(getCartTotal());
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [cart]);
 
   return (

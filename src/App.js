@@ -5,7 +5,6 @@ import Navbar from './components/Navbar/Navbar';
 import Cart from './Pages/Cart';
 import Contact from './Pages/Contact';
 import Home from './Pages/Home';
-import Footer from './components/Footer/Footer';
 
 
 const App = () => {
