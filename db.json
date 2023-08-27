@@ -1,0 +1,84 @@
+{
+  "pet_products": [
+    {
+      "id": 1,
+      "product_name": "Nourriture pour Animaux",
+      "description": "Un sac de 1 kg de nourriture équilibrée pour chiens et chats.",
+      "price": 25.75,
+      "image_url": "https://m.media-amazon.com/images/I/61Wea-IaWDL.jpg",
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "product_name": "Collier pour Chien",
+      "description": "Un collier en cuir robuste pour chien, disponible en différentes tailles.",
+      "price": 8.99,
+      "image_url": "https://mypets.tn/964-large_default/collier-chien-uni-bleu-15-cm.jpg",
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "product_name": "Litière pour Chat",
+      "description": "Une litière agglomérante à base de graines naturelles pour contrôler les odeurs.",
+      "price": 12.25,
+      "image_url": "https://mypets.tn/2881-large_default/litiere-sanicat-classic-oxygen-10-l.jpg",
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "product_name": "Aquarium",
+      "description": "Un aquarium en verre de 20 litres avec éclairage LED intégré.",
+      "price": 45.50,
+      "image_url": "https://all-for-pets.tn/site/images/POISSONS/Aquarium/aqua-tetra-07.png",
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "product_name": "Cage d'Oiseaux",
+      "description": "Une cage spacieuse avec perchoirs et mangeoires pour les petits oiseaux.",
+      "price": 30.20,
+      "image_url": "https://spacenet.tn/55120-large_default/cage-ferplast-pour-petits-oiseaux.jpg",
+      "quantity": 0
+    },
+    {
+      "id": 6,
+      "product_name": "Croquettes pour Chiens",
+      "description": "Un sac de croquettes de haute qualité pour chiens de toutes tailles.",
+      "price": 18.50,
+      "image_url": "https://mypets.tn/1343-large_default/simba-dog-croquettes-boeuf-800-gr.jpg",
+      "quantity": 0
+    },
+    {
+      "id": 7,
+      "product_name": "Jouet pour Chat",
+      "description": "Un jouet interactif pour divertir votre chat pendant des heures.",
+      "price": 5.99,
+      "image_url": "https://mypets.tn/2794-large_default/jouet-balles-chat-4-pieces.jpg",
+      "quantity": 0
+    },
+    {
+      "id": 8,
+      "product_name": "Laisse pour Chien",
+      "description": "Une laisse solide et confortable pour promener votre chien en toute sécurité.",
+      "price": 9.75,
+      "image_url": "https://www.allopromo.tn/wp-content/uploads/2022/04/promotion-Tunisie-laisse-de-chien-allopromo-promodeal-5-1.png",
+      "quantity": 0
+    },
+    {
+      "id": 9,
+      "product_name": "Niche pour Chien",
+      "description": "Une niche spacieuse pour abriter votre chien des intempéries.",
+      "price": 55.99,
+      "image_url": "https://www.animaliaplus.com/wp-content/uploads/2022/03/11.jpg",
+      "quantity": 0
+    },
+    {
+      "id": 10,
+      "product_name": "Griffoir pour Chat",
+      "description": "Un griffoir en sisal pour aider votre chat à entretenir ses griffes.",
+      "price": 12.99,
+      "image_url": "https://spacenet.tn/54774-large_default/griffoir-pour-chat-ferplast-pa-4012-.jpg",
+      "quantity": 0
+    }
+  ]
+}
