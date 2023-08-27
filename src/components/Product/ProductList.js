@@ -5,7 +5,6 @@ import ProductItem from './ProductItem';
 import './productList.css';
 
 const ProductList = () => {
-  const searchQuery = useSelector(state => state.search.searchQuery);
   const filteredProducts = useSelector(state => state.search.filteredProducts);
   const dispatch = useDispatch(); 
 

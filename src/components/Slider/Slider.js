@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, Carousel } from "react-bootstrap";
+import {  Carousel } from "react-bootstrap";
 
 function Slider() {
   return (
@@ -10,7 +10,7 @@ function Slider() {
           <img
             className="d-block w-100"
             style={{ height: "70vh", objectFit: "cover" }}
-            src="https://poshpets.in/image/catalog/Home%20Page%20Banner%20/Food.png"
+            src="https://poshpets.in/image/catalog/Home%20Page%20Banner%20/Food.png" alt="products"
           />
           <Carousel.Caption style={{ backgroundColor: "rgba(0, 0, 0, 0.7)" }}>
             <h5>Où chaque visite est un accueil chaleureux.</h5>
