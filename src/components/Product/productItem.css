@@ -5,13 +5,8 @@
 .product-card {
     position: relative; 
     overflow: hidden;
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
   }
-  
-  .product-card .bg-image {
-    transition: transform 0.3s ease-in-out;
-  }
-  
+
   .product-card:hover {
     transform: scale(1.05);
     box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
